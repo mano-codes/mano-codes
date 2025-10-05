@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Manoj — aka `mano-codes`
+# 👋 Hello, I'm Manoj — `mano-codes`
 
 Aspiring **AI Full Stack Developer** from India 🇮🇳  
 Passionate about building intelligent, scalable web applications that solve real-world problems.
