@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Manoj — aka `mano-codes`
 
-<!--
-**mano-codes/mano-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **AI Full Stack Developer** from India 🇮🇳  
+Passionate about building intelligent, scalable web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- 🧮 Backend: Python, Node.js
+- 🤖 AI Tools: TensorFlow, OpenAI APIs
+- 🛠️ Dev Tools: VS Code, GitHub, Git
+
+---
+
+## 🚀 Projects & Goals
+- 🔭 Currently working on beginner-friendly web apps
+- 📚 Exploring AI integration in full stack workflows
+- 🌱 Building a public developer profile to showcase my growth
+
+---
+
+## 📊 GitHub Stats
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mano-codes&show_icons=true&theme=radical)
+
+---
+
+## 🎯 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-9a1437385)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📬 Reach out for collaboration, feedback, or just to say hi!
+
+---
+
+> “Code is not just syntax — it’s a superpower to shape the future.”
+
